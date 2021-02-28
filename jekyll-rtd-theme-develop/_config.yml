@@ -1,6 +1,9 @@
 title: jekyll-rtd-theme
 description: Just another documentation theme compatible with GitHub Pages
 
+url: nordeastmakers.github.io
+   baseurl: /nordeastmakers
+
 theme: null
 
 # debug:
