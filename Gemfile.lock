@@ -70,7 +70,7 @@ GEM
     wdm (0.1.1)
 
 PLATFORMS
-  x86_64-darwin-18
+  ruby
 
 DEPENDENCIES
   jekyll (~> 3.9.0)
@@ -82,4 +82,4 @@ DEPENDENCIES
   wdm (~> 0.1.0)
 
 BUNDLED WITH
-   2.2.11
+   1.17.3
