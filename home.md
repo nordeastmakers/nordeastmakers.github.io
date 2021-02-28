@@ -13,3 +13,5 @@ A maker space is a community resource where local residents can become members t
 ## How does membership at Nordeast Makers work?
 
 Membership is $200 per month. With membership we provide basic instruction on the CNCs, lasers and 3D printers. Currently we do not offer wood shop classes, so we expect a member wishing to use the wood shop equipment will be thoroughly familiar and comfortable using it. However, we encourage and welcome you to ask other members and owners to help and/or show you how to use a piece of equipment. Our space is open 24/7 to members.
+
+testing edit
