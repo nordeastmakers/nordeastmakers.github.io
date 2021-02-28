@@ -32,7 +32,7 @@ This is a code block following a header.
 
 #### Header 4
 
-- This is an unordered list following a header2.
+- This is an unordered list following a header3.
 - This is an unordered list following a header.
 - This is an unordered list following a header.
 
