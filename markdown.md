@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. There should be whitespace betwee
 >
 > Blockquotes should be a lighter gray with a gray border along the left side.
 >
-> There should be no margin below this final sentence.
+> There should be no margin below this final sentence test.
 
 # Header 1
 
@@ -32,7 +32,7 @@ This is a code block following a header.
 
 #### Header 4
 
-- This is an unordered list following a header.
+- This is an unordered list following a header2.
 - This is an unordered list following a header.
 - This is an unordered list following a header.
 
