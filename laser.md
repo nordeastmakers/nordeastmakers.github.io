@@ -35,6 +35,6 @@ If you want to order your cuts or make more than one type of cut, you need to pu
 - Select a color for the layer
 - Repeat selecting vectors and defining layers until all vectors are within a layer
 
-![SetLaserOrigin](https://github.com/nordeastmakers/nordeastmakers.github.io/blob/main/images/SetLaserOrigin.png)
+![SetLaserOrigin](https://user-images.githubusercontent.com/1672997/111076290-bd9e0c80-84b9-11eb-8dae-803b3eb6f771.png)
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
