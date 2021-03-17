@@ -41,30 +41,26 @@ sort: 3
 
 ## Laser Operation
 
-### When setting datum the platform rises but doesn't stop
-
-- This is almost always because datum was hit when the laser nozzle was at the edge of the platform and the plunger was not over your material so it didn't not know when to stop.
-  - Do not turn the laser back on before manually lowering the platform. To do this open the front access door with a key (there's usually a key left in one of the access doors).
-    - 
-    - For the small laser: Manually pull the belt to spin the lead screws clock-wise until the nozzle can safely move above the platform.
-For the large laser: Manually pull the 2 belts to spin the lead screws clock-wise until the nozzle can safely move above the platform. Try to move each side the same amount to keep the bed level. Using a spacer adjust one side so the nozzle brushes (with the machine off) the spacer when it's sitting on the platform. Repeat on the other side of the platform to level. Ask for help if you're unclear with this procedure.
-Always set Z datum over the middle of your material.
 Check that the honeycomb tray is clear of the rim. Beware: the tray can get caught under the rim and cause havoc.
 If head assembly abuts material support frame (the wire mesh thing), you need to lower the bed manually. To do so pull on the pulley adjustment belts in the bottom cabinet.
 Email us if this happens because the platform may need to be leveled. contact@nordeastmakers.com
 
-It sounds like the laser is hitting something and is loosing position running a job[edit]
-This is caused by an unknown glitch and tends to happen on fast cuts.
-Try importing your file as an .ai (Illustrator file) rather than a .dxf. For Laser Cut to recognize an .ai it must be saved as an Illustrator 10 file with file compression unchecked. You also need to have black outlines.
-If that doesn't work try redrawing your lines in a CAD program other than originally. If they're simple vectors draw them in Laser Cut and delete the defective ones.
+### It sounds like the laser is hitting something and is loosing position running a job
 
-The laser is not firing when running my file[edit]
-Make sure the exhaust fan and chiller are on.
-Make sure your power setting is high enough to mark or cut material as needed.
-The door must be closed!
+- This is caused by an unknown glitch and tends to happen on fast cuts.
+- Try importing your file as an .ai (Illustrator file) rather than a .dxf. For Laser Cut to recognize an .ai it must be saved as an Illustrator 10 file with file compression unchecked. You also need to have black outlines.
+- If that doesn't work try redrawing your lines in a CAD program other than originally. If they're simple vectors draw them in Laser Cut and delete the defective ones.
 
-The laser is not cutting through my material at settings that used to work[edit]
-It's likely the lens and mirrors need cleaning. If you're not familiar with this process ask for help or contact us at contact@nordeastmakers.com
+### The laser is not firing when running my file
 
-Large laser exhaust fan does not clear dust and smoke[edit]
-Check the fan filter, it may be dirty. The fan filter is in the wood housing along the wall at the back left corner of the machine. Open the window latch on the housing, pull the filter down and out, clean it with running water, replace in housing.
+- Make sure the exhaust fan and chiller are on.
+- Make sure your power setting is high enough to mark or cut material as needed.
+- The door must be closed!
+
+### The laser is not cutting through my material at settings that used to work
+
+- It's likely the lens and mirrors need cleaning. If you're not familiar with this process ask for help or contact us at contact@nordeastmakers.com
+
+### Large laser exhaust fan does not clear dust and smoke
+
+- Check the fan filter, it may be dirty. The fan filter is in the wood housing along the wall at the back left corner of the machine. Open the window latch on the housing, pull the filter down and out, clean it with running water, replace in housing.
